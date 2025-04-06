@@ -1,5 +1,7 @@
 Made by Mozes Aung, Iain Black, Mehtaab Gill, Michal Wojciechowski, and Nestor Zerpa
 
+Game .exe runs on Windows.
+
 
 Controls: 
 
