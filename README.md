@@ -1,6 +1,6 @@
 Made by Mozes Aung, Iain Black, Mehtaab Gill, Michal Wojciechowski, and Nestor Zerpa
 
-Game .exe runs on Windows.
+To run game, extract the ZIP file and run /game/Lands Of Abyss.exe
 
 
 Controls: 
